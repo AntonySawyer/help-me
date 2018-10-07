@@ -150,5 +150,5 @@ describe('Help me', () => {
       [29, 150098810],
     ]);
     assert.equal(result, 500432525);
-  }); 
+  });
 });
